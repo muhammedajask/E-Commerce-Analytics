@@ -56,7 +56,7 @@ The dataset used in this project is **SampleSuperstore.csv**, which contains the
 ## How to Use
 
 1. Download the dataset: [SampleSuperstore.csv](./SampleSuperstore.csv)
-2. Download the Jupyter Notebook: [E-Commerce Analysis.ipynb](./E-Commerce%20Analysis.ipynb)
+2. Download the Jupyter Notebook: [E-Commerce Analysis.ipynb](./E-CommerceAnalysis.ipynb)
 3. Open the Jupyter Notebook and run the cells to see the analysis and visualizations.
 
 
